@@ -1,0 +1,15 @@
+{ "The name of the bug report": " What, where, and when happens",
+"Short description":  "expanded version of writing",
+"Application component": "Name of the project where the project is located",
+"Version number": "Exact version number of the software where the bug is found", 
+"Bug severity": "From S1-S5", 
+"Bug priority": "From P1-P3",
+"Bug status": "Opened/Rejected/Restored/Repaired", 
+"Environment": "In which environment the bug was found (browser version/OP version)",
+"Playback steps": "Tap/Return/Refresh",
+"Actual result": "The result that results (playback steps)",
+"Expected result": "Result of the previous factor's steps that should be reproduced",
+"More": "Screenshot"
+}
+
+
